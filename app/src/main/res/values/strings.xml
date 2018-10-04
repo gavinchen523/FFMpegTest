@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FFMpegTest</string>
+    <string name="Filter_text">Filter</string>
+    <string name="Format_text">Format</string>
+    <string name="protocol_text">Protocol</string>
+    <string name="codec_text">Codec</string>
+</resources>
